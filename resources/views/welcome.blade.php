@@ -243,7 +243,7 @@ body {
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge" style="left: 600px;">
-    ENSA-ELJADIDA
+    ENSA-PROFESSEURS
   </div>
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-left" ><center><strong>Bienvenue </strong>sur la platforme</center></h1>
