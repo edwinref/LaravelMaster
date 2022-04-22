@@ -74,4 +74,18 @@
         </div>
     </div>
 </div>
+<style>
+    body {
+                font-family: 'Nunito', sans-serif;
+                background:linear-gradient(to bottom, rgb(77 66 92 / 80%) 0%, rgba(17, 41, 66, 0.8) 100%),url('https://th.bing.com/th/id/R.110f7f9c670e4f58f0d1b8a2c73dcb5c?rik=yUlvZAmh1bSl%2bQ&riu=http%3a%2f%2fwww.ensaj.ucd.ac.ma%2fwp-content%2fuploads%2f2015%2f07%2fIMG_0562.jpg&ehk=3NpOrQFSWZ2gzF9pk4XrGfNUHE2J637RaISJfMbuBpc%3d&risl=&pid=ImgRaw&r=0');
+    min-height: 100%;
+            min-height: 100%;
+            background-position: center;
+            background-size: cover;
+            }
+        
+            body,h1 {font-family: "Raleway", sans-serif}
+            body, html {height: 100%}
+           
+           </style>
 @endsection

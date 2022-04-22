@@ -75,16 +75,25 @@
 }
 
 body {
-    margin: 0;
-    font-family: var(--bs-body-font-family);
-    font-size: var(--bs-body-font-size);
-    font-weight: var(--bs-body-font-weight);
-    line-height: var(--bs-body-line-height);
-    color: var(--bs-body-color);
-    text-align: var(--bs-body-text-align);
-    background-color: #001890;
-    -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: 'Nunito', sans-serif;
+}
+
+body,
+h1 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%
+}
+
+.bgimg {
+    background: linear-gradient(to bottom, rgb(77 66 92 / 80%) 0%, rgba(17, 41, 66, 0.8) 100%), url('https://th.bing.com/th/id/R.110f7f9c670e4f58f0d1b8a2c73dcb5c?rik=yUlvZAmh1bSl%2bQ&riu=http%3a%2f%2fwww.ensaj.ucd.ac.ma%2fwp-content%2fuploads%2f2015%2f07%2fIMG_0562.jpg&ehk=3NpOrQFSWZ2gzF9pk4XrGfNUHE2J637RaISJfMbuBpc%3d&risl=&pid=ImgRaw&r=0');
+    min-height: 100%;
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
 }
 
 hr {
